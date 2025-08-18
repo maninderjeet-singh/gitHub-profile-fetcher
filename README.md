@@ -23,7 +23,7 @@ It first checks a local **SQLite database** for cached profiles and, if not foun
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/github-profile-fetcher.git
+   git clone https://github.com/maninderjeet-singh/github-profile-fetcher.git
    cd github-profile-fetcher
    ```
 
